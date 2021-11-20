@@ -118,3 +118,9 @@ section.images .circle{
     clip-path: circle(40% at right 80%);
     z-index: -1;
 }
+.footer span{
+    color: rgba(166, 166, 166);
+    font-size: 0.8rem;
+    text-align: center;
+    
+}
